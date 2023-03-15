@@ -10,3 +10,10 @@ Soy Director de proyectos de **GRUPO STUDIO SEBIA**, agencia digital ubicada en 
 4. Experiencias *Virtual Reality* y *Augmented Reality* para multiplataformas 🍗
 5. Streaming 🌭
 6. Diseño UX - IX 🥩
+
+| Entornos en los cuales trabajo | Porcentaje |
+|-----------------------------------|------------|
+| Unity | 50% |
+| Javascript | 35% |
+| Meet | 20% |
+| Digital Ocean | 10% |
